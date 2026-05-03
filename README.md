@@ -88,3 +88,7 @@ jupyter notebook notebooks/analysis.ipynb
 
 Your Name — Lalit Rao
 https://github.com/Litla8
+
+## 📜 Certificate
+
+[View Certificate](certificates/uber-data-analysis-certificate.pdf)
